@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C4E96E20-24D7-4681-9DB5-490BC76D3583</string>
+	<key>IDESourceControlProjectName</key>
+	<string>micoe</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>188fa56f-9b29-4e46-af83-b60661abf27b</key>
+		<string>https://ww.websharp.com.cn/svn/micoe</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>micoe/micoe.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>188fa56f-9b29-4e46-af83-b60661abf27b</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>188fa56f-9b29-4e46-af83-b60661abf27b</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>188fa56f-9b29-4e46-af83-b60661abf27b</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sj</string>
+		</dict>
+	</array>
+</dict>
+</plist>
